@@ -4,6 +4,6 @@ Currency Exchange Rate Comparison Tool Compares exchange rates between two curre
 
 # Table Of Contents
 <br>
-1. Features
-2. Pre-Requisites
-3. UML 
+1. Features <br>
+2. Pre-Requisites <br>
+3. UML <br>
