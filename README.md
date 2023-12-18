@@ -7,3 +7,9 @@ Currency Exchange Rate Comparison Tool Compares exchange rates between two curre
 1. Features <br>
 2. Pre-Requisites <br>
 3. UML <br>
+
+# Features
+<br>
+1. Allows users to compare exchange rates between two currencies.
+2. Aims to help users find the best exchange rate available.
+3. Utilizes different APIs such as Fixer and Currency Beacon to retrieve exchange rates.
