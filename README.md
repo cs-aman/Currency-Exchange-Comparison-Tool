@@ -13,3 +13,12 @@ Currency Exchange Rate Comparison Tool Compares exchange rates between two curre
 1. Allows users to compare exchange rates between two currencies.<br style="line-height: 0.5;"> 
 2. Aims to help users find the best exchange rate available.<br  style="line-height: 0.5;"> 
 3. Utilizes different APIs such as Fixer and Currency Beacon to retrieve exchange rates.<br style="line-height: 0.5;"> 
+
+# Pre-Requisites
+
+1.Ensure Python is installed on your system. You can download and install Python <a href="https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe">.
+2.Install the Requests library using pip (pip install requests). This library allows you to make HTTP requests, which is necessary to communicate with APIs like Fixer and Currency Beacon.
+3.Obtain an API key from Fixer (or any other currency exchange API service you intend to use) to authenticate and access their services. If using Currency Beacon, acquire an API key for their services as well.
+4.Install Visual Studio Code for editing and running your Python code from <a href="https://code.visualstudio.com/download">.
+5.A stable internet connection is required to fetch data from the APIs.
+
