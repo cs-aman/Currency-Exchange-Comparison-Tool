@@ -10,6 +10,6 @@ Currency Exchange Rate Comparison Tool Compares exchange rates between two curre
 
 # Features
 <br>
-1. Allows users to compare exchange rates between two currencies.<br>
-2. Aims to help users find the best exchange rate available.<br>
-3. Utilizes different APIs such as Fixer and Currency Beacon to retrieve exchange rates.<br>
+1. Allows users to compare exchange rates between two currencies.<br> <br>
+2. Aims to help users find the best exchange rate available.<br> <br>
+3. Utilizes different APIs such as Fixer and Currency Beacon to retrieve exchange rates.<br> <br>
