@@ -31,5 +31,5 @@ Currency Exchange Rate Comparison Tool Compares exchange rates between two curre
 
 # 1. Git 
 Usage of GitHub for the whole project time.<br style="line-height: 0.5;">
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/commits/main/'→>commit history here</a>.
+→<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/commits/main/'>commit history here</a>.
 
