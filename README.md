@@ -26,4 +26,5 @@ Currency Exchange Rate Comparison Tool Compares exchange rates between two curre
 
 5. A stable internet connection is required to fetch data from the APIs.<br style="line-height: 0.5;">
 
-
+# Code File 
+ You can find the link <a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/d5f2bb9caace9c4e5df23c522f043b95a929f96f/Python/code-file.py">here</a> to access the code and see how I built this project.
