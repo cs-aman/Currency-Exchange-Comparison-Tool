@@ -1,13 +1,14 @@
 # Currency Exchange Comparison Tool
 <br>
 Currency Exchange Rate Comparison Tool Compares exchange rates between two currencies using different APIs like Fixer and Currency Beacon, helping users to find the best exchange rate along with rates they can get!"
-
-<!-- # Table Of Contents
+ 
+# Table Of Contents
 <br>
 1. Features <br>
 2. Pre-Requisites <br>
 3. Code File <br>
-4. UML <br>
+4. Git
+5. UML <br> -->
 
 # Features
 <br>
@@ -27,9 +28,10 @@ Currency Exchange Rate Comparison Tool Compares exchange rates between two curre
 5. A stable internet connection is required to fetch data from the APIs.<br style="line-height: 0.5;">
 
 # Code File 
- You can find the link <a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/d5f2bb9caace9c4e5df23c522f043b95a929f96f/Python/code-file.py">here</a> to access the code and see how I built this project. -->
+ You can find the link <a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/d5f2bb9caace9c4e5df23c522f043b95a929f96f/Python/code-file.py">here</a> to access the code and see how I built this project. --> -->
 
-# 1. Git 
+# Git 
 Usage of GitHub for the whole project time.<br style="line-height: 0.5;">
 →<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/commits/main/'>commit history here</a>.
 
+# UML 
