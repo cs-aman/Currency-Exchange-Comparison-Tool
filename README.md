@@ -7,8 +7,8 @@ Currency Exchange Rate Comparison Tool Compares exchange rates between two curre
 1. Features <br>
 2. Pre-Requisites <br>
 3. Code File <br>
-4. Git
-5. UML <br> -->
+4. Git <br>
+5. UML <br> 
 
 # Features
 <br>
@@ -35,5 +35,5 @@ Usage of GitHub for the whole project time.<br style="line-height:1.5;">
 →<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/commits/main/'>commit history here</a>.
 
 # UML 
-UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the project with Edlich's Fund)<br style="line-height: 1.5;">
+UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the project with Edlich's Fund)<br style="line-height: 1.5;"> 
 →<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/uml-diagram'>UML PNG here</a>.
