@@ -6,9 +6,11 @@ Currency Exchange Rate Comparison Tool Compares exchange rates between two curre
 <br>
 1.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#features">Features</a> <br>
 2.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#pre-requisites">Pre-Requisites</a> <br>
-3. <a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#code-file">Code File</a><br>
-4. <a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#git">Git</a>Git <br>
-5. <a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#uml">UML</a>UML <br> 
+3.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#code-file">Code File</a><br>
+4.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#git">Git</a> <br>
+5.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#uml">UML</a> <br> 
+6.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#metrices">Metrices</a> <br> 
+7.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#clean-code-development">Clean Code Development</a> <br> 
 
 # Features
 <br>
