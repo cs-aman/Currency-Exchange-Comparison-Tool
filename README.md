@@ -4,7 +4,7 @@ Currency Exchange Rate Comparison Tool Compares exchange rates between two curre
  
 # Table Of Contents
 <br>
-1. Features <br>
+1. <a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#features">Features</a> <br>
 2. Pre-Requisites <br>
 3. Code File <br>
 4. Git <br>
