@@ -4,11 +4,11 @@ Currency Exchange Rate Comparison Tool Compares exchange rates between two curre
  
 # Table Of Contents
 <br>
-1. <a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#features">Features</a> <br>
-2. Pre-Requisites <br>
-3. Code File <br>
-4. Git <br>
-5. UML <br> 
+1.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#features">Features</a> <br>
+2.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#pre-requisites">Pre-Requisites</a> <br>
+3. <a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#code-file">Code File</a><br>
+4. <a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#git">Git</a>Git <br>
+5. <a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#uml">UML</a>UML <br> 
 
 # Features
 <br>
