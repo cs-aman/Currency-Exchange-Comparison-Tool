@@ -40,6 +40,30 @@ Usage of GitHub for the whole project time.<br style="line-height:1.5;">
 UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the project with Edlich's Fund)<br style="line-height: 1.5;"> 
 →<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/uml-diagram'>UML PNG here</a>.
 
+# Requirement Engineering 
+In any undertaking, whether it's developing a Python application or assembling a piece of furniture, there are specific criteria to consider. For instance, in my current project, the key requirements are outlined below.
+
+<b> API Interaction: <b>
+The code relies on the requests library to communicate with external APIs, retrieving exchange rate data.
+
+<b> Functions: <b>
+get_exchange_rate Function: This function is designed to fetch exchange rate data from an API. It handles potential errors that might occur during the request and returns the data in JSON format.
+
+<b> compare_exchange_rates Function: <b>
+
+API URLs Construction: It constructs URLs for both Fixer and Currency Beacon services using the specified currency pair.
+Data Retrieval: It fetches exchange rate data from these APIs, then compares the rates retrieved.
+Output Handling: The function prints the exchange rates and indicates which API offers a more favorable rate, or if both rates are identical.
+
+<b> External Services:<b>
+Fixer API: It's used to obtain exchange rate data.
+Currency Beacon API: Another service used to retrieve exchange rates for comparison purposes.
+
+<b> Additional Aspects:<b>
+API Keys: Ensure valid keys are integrated into the code for both Fixer and Currency Beacon services.
+Currency Pair: The functionality expects two specific currencies for comparison.
+Output Presentation: Currently, the output is displayed in the console; other means of presentation or logging might be considered
+
 # Metrices 
 [![SonarCloud Mentainability](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
 [![SonarCloud Bugs](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=bugs)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
