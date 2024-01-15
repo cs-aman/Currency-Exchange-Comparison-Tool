@@ -78,3 +78,16 @@ Adding clean code development for enhancing code usability, readability, and mai
 
 ♦ Cheat Sheet for Upcoming Projects:<br>
 →<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/ccd_cheat-sheet.md" target="_blank"> Cheat Sheet</a>
+
+# IDE 
+Most of the time I used VSC(Visual Studio Code).
+
+<b>Favourite Keys </b>
+
+♦ CTRL + A -> To select all code
+♦ CTRL + X -> To Cut selected Code
+♦ CTRL + Alt + N -> To Run Code
+♦ CTRL + F - To Find Specific text
+♦ CTRL + Alt + (up/down) -> To create Multiple Cursor
+♦ CTRL + Shift + K -> To delete a line
+♦ CTRL + ' -> To Start Terminal
