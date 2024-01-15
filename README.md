@@ -74,5 +74,5 @@ Adding clean code development for enhancing code usability, readability, and mai
 ♦<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/e869f95664b47c1cab6ad987d61d6e925f4ef0a9/Python/code-file.py#L44'> DocStrings</a> </br>
 ♦<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/e869f95664b47c1cab6ad987d61d6e925f4ef0a9/Python/code-file.py#L37C1-L37C1'> Descriptive Variable Names</a> <br>
 
-♦ Cheat Sheet for Upcoming Projects:
+♦ Cheat Sheet for Upcoming Projects:<br>
 →<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/ccd_cheat-sheet.md" target="_blank"> Cheat Sheet</a>
