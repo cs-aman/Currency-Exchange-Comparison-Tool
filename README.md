@@ -80,14 +80,14 @@ Adding clean code development for enhancing code usability, readability, and mai
 →<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/ccd_cheat-sheet.md" target="_blank"> Cheat Sheet</a>
 
 # IDE 
-Most of the time I used VSC(Visual Studio Code).
+Most of the time I used <b>VSC(Visual Studio Code)</b>.
 
 <b>Favourite Keys </b>
 
-♦ <b> CTRL + A </b>-> To select all code <br>
-♦ <b> CTRL + X </b>-> To Cut selected Code  <br>
-♦ <b> CTRL + Alt + N </b>-> To Run Code <br>
-♦ <b> CTRL + F </b>-> To Find Specific text <br>
-♦ <b>CTRL + Alt + (up/down) </b> -> To create Multiple Cursor <br>
-♦ <b>CTRL + Shift + K </b>-> To delete a line <br>
-♦ <b>CTRL + '  </b> -> To Start Terminal <br>
+♦ <b> CTRL + A </b>  To select all code <br>
+♦ <b> CTRL + X </b>  To Cut selected Code  <br>
+♦ <b> CTRL + Alt + N</b>  To Run Code <br>
+♦ <b> CTRL + F </b>  To Find Specific text <br>
+♦ <b>CTRL + Alt + (up/down)</b>  To create Multiple Cursor <br>
+♦ <b>CTRL + Shift + K </b>  To delete a line <br>
+♦ <b>CTRL + '  </b>  To Start Terminal <br>
