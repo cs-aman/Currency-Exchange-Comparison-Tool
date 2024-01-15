@@ -41,6 +41,8 @@ print(rate_beacon)
 
 # compare and Find the Best Provider
 def compare_rates(rate_fixer,rate_beacon):
+    ''' It get the rates from rate_fixer and rate_beacon and compare which is best between them '''
+    
     if rate_fixer > rate_beacon:
         return ("The Fixer Currency Exchange Providing Best Rates")
     elif rate_fixer < rate_beacon  :
