@@ -52,7 +52,3 @@ def compare_rates(rate_fixer,rate_beacon):
 
 result = compare_rates(fixer,beacon)
 print(result)
-# # Printing the Exchange Prices
-# print(f"The exchange rate in Fixer.io is 1 {basecurrency} = {fixerdictionary['rates'][currency]}:")
-# print(f"The exchange rate in Beacon is 1 {basecurrency} = {beacondictionary['rates'][currency]}")
-#
