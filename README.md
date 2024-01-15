@@ -84,10 +84,10 @@ Most of the time I used VSC(Visual Studio Code).
 
 <b>Favourite Keys </b>
 
-♦ CTRL + A -> To select all code
-♦ CTRL + X -> To Cut selected Code
-♦ CTRL + Alt + N -> To Run Code
-♦ CTRL + F - To Find Specific text
-♦ CTRL + Alt + (up/down) -> To create Multiple Cursor
-♦ CTRL + Shift + K -> To delete a line
-♦ CTRL + ' -> To Start Terminal
+♦ CTRL + A -> To select all code <br>
+♦ CTRL + X -> To Cut selected Code  <br>
+♦ CTRL + Alt + N -> To Run Code <br>
+♦ CTRL + F - To Find Specific text <br>
+♦ CTRL + Alt + (up/down) -> To create Multiple Cursor <br>
+♦ CTRL + Shift + K -> To delete a line <br>
+♦ CTRL + ' -> To Start Terminal <br>
