@@ -41,8 +41,8 @@ UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the
 →<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/uml-diagram'>UML PNG here</a>.
 
 # Requirement Engineering 
-In any undertaking, whether it's developing a Python application or assembling a piece of furniture, there are specific criteria to consider. For instance, in my current project, the key requirements are outlined below.<br><br>
-<b>1. API Interaction:</b><br>
+In any undertaking, whether it's developing a Python application or assembling a piece of furniture, there are specific criteria to consider. For instance, in my current project, the key requirements are outlined below.<br>
+<p><b>1. API Interaction:</b><br>
 * The code relies on the requests library to communicate with external APIs, retrieving exchange rate data.<br><br>
 <b>2. Functions:</b> <br>
 * get_exchange_rate Function: This function is designed to fetch exchange rate data from an API.<br>
@@ -57,7 +57,7 @@ In any undertaking, whether it's developing a Python application or assembling a
 <b>5. Additional Aspects:</b><br>
 * API Keys: Ensure valid keys are integrated into the code for both Fixer and Currency Beacon services.<br>
 * Currency Pair: The functionality expects two specific currencies for comparison.<br>
-* Output Presentation: Currently, the output is displayed in the console; other means of presentation or logging might be considered.<br>
+* Output Presentation: Currently, the output is displayed in the console; other means of presentation or logging might be considered.<br></p>
 
 # Metrices 
 [![SonarCloud Mentainability](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
