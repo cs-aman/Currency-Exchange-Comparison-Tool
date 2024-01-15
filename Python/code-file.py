@@ -1,5 +1,10 @@
 import requests
+import json
 
+# Welcoming In Application
+print("Welcome to the currency exchange.The Base Currency is EUR")
+
+# Adding a function for error handling.
 def get_exchange_rate(api_url):
     try:
         response = requests.get(api_url)
@@ -13,36 +18,39 @@ def get_exchange_rate(api_url):
         print("Request Exception:", e)
         return None
 
-# #Define API URL
-# fixer_api_key =  '0d08fdee18bfba444988679a06fa7a02'
-# fixer_url = f'http://data.fixer.io/api/latest?access_key={fixer_api_key}&symbols={currency_1},{currency_2}'
+# Declaring the base Currency and Getting Input for Second Currency
+basecurrency = "EUR"
+currency = input("Enter currency: ")
 
-# # Get exchange rate data from Fixer
-# exchange_data = get_exchange_rate(fixer_url)
-# print(exchange_data)
+# Adding API of Both Exchange Providers
+fixer = (f"http://data.fixer.io/api/latest?access_key=0d08fdee18bfba444988679a06fa7a02&symbols={basecurrency},{currency}")
+beacon= (f"https://api.currencybeacon.com/v1/latest?api_key=vGhiQ81fq6RxhT79HCSNz8nzMCrIvn6R&base={basecurrency}&symbols={currency}")
 
-def compare_exchange_rates(currency_1, currency_2):
-    # Construct API URLs for different currencies
-    fixer_api_key = '0d08fdee18bfba444988679a06fa7a02'
-    fixer_url = f'http://data.fixer.io/api/latest?access_key={fixer_api_key}&symbols={currency_1},{currency_2}'
+# Getting data from API
+reqfixer = requests.get(fixer)
+reqbeacon = requests.get(beacon)
 
-    currency_beacon_api_key ='vGhiQ81fq6RxhT79HCSNz8nzMCrIvn6R'
-    currency_beacon_url = f'https://api.currencybeacon.com/v1/latest?api_key={currency_beacon_api_key}&base={currency_1}&symbols={currency_2}'
+# Adding Data to a Specific Dictionary for Different Providers
+fixerdictionary = json.loads(reqfixer.text)
+beacondictionary = json.loads(reqbeacon.text)
 
-# Get exchange rate data from Fixer and Currency Beacon APIs
-    fixer_data = get_exchange_rate(fixer_url)
-    currency_beacon_data = get_exchange_rate(currency_beacon_url)
+rate_fixer = {fixerdictionary["rates"][currency]}
+rate_beacon = {beacondictionary["rates"][currency]}
+print(rate_fixer)
+print(rate_beacon)
 
-# Print exchange rates and comparison
-    if fixer_data and currency_beacon_data:
-        print(f"Exchange rate from Fixer for {currency_1} to {currency_2}: {fixer_data['rates'][currency_2]}")
-        print(f"Exchange rate from Currency Beacon for {currency_1} to {currency_2}: {currency_beacon_data['rates'][currency_2]}")
-
-        if fixer_data['rates'][currency_2] < currency_beacon_data['rates'][currency_2]:
-            print("Fixer provides a better exchange rate.")
-        elif fixer_data['rates'][currency_2] > currency_beacon_data['rates'][currency_2]:
-            print("Currency Beacon provides a better exchange rate.")
-        else:
-            print("Both APIs provide the same exchange rate.")
+# compare and Find the Best Provider
+def compare_rates(rate_fixer,rate_beacon):
+    if rate_fixer > rate_beacon:
+        return ("The Fixer Currency Exchange Providing Best Rates")
+    elif rate_fixer < rate_beacon  :
+        return ("The Beacon Currency Exchange Providing Best Rates")
     else:
-        print("Unable to compare exchange rates.")
+        return ("Both Fixer and Beacon Providing Same Rates")
+
+result = compare_rates(fixer,beacon)
+print(result)
+# # Printing the Exchange Prices
+# print(f"The exchange rate in Fixer.io is 1 {basecurrency} = {fixerdictionary['rates'][currency]}:")
+# print(f"The exchange rate in Beacon is 1 {basecurrency} = {beacondictionary['rates'][currency]}")
+#
