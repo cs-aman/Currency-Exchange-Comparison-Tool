@@ -41,9 +41,9 @@ UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the
 →<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/uml-diagram'>UML PNG here</a>.
 
 # Requirement Engineering 
-In any undertaking, whether it's developing a Python application or assembling a piece of furniture, there are specific criteria to consider. For instance, in my current project, the key requirements are outlined below.
+In any undertaking, whether it's developing a Python application or assembling a piece of furniture, there are specific criteria to consider. For instance, in my current project, the key requirements are outlined below.<br>
 
-<br><b>1. API Interaction:</b><br>
+<b>1. API Interaction:</b><br>
 * The code relies on the requests library to communicate with external APIs, retrieving exchange rate data.<br><br>
 <b>2. Functions:</b> <br>
 * get_exchange_rate Function: This function is designed to fetch exchange rate data from an API.<br>
