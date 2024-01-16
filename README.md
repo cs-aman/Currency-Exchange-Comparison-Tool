@@ -49,6 +49,7 @@ UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the
 * It Should Gracefully Handle API Request Failure,Providing Informative Error Message.<br>
 * The User Interface Should be Clear and User-Friendly.<br>
 
+# Requirement Management Tools
 <b>JIRA</b> <br>
 →<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/JIRA'>JIRA Image Summary </a> <br>
 
