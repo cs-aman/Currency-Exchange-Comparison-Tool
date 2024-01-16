@@ -50,7 +50,7 @@ UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the
 * The User Interface Should be Clear and User-Friendly.<br>
 
 # Requirement Management Tools
-<b>JIRA</b> <br>
+<p><b>JIRA</b> <br></p>
 →<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/JIRA'>JIRA Image Summary </a> <br>
 
 # Metrices 
