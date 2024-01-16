@@ -93,4 +93,5 @@ Most of the time I used <b>VSC(Visual Studio Code)</b>.
 
 # Unit Tests
 
-→<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Tests/test_code_file.py'>Find Tests Here </a>
+→<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Tests/test_code_file.py'>Find Tests Here </a> <br>
+→Run Test Manually %python -m unittest Tests/test_code_file.py%
