@@ -49,6 +49,9 @@ UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the
 * It Should Gracefully Handle API Request Failure,Providing Informative Error Message.<br>
 * The User Interface Should be Clear and User-Friendly.<br>
 
+<b>JIRA</b>
+♦ <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/JIRA'>JIRA Image Summary </a> <br>
+
 # Metrices 
 [![SonarCloud Mentainability](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
 [![SonarCloud Bugs](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=bugs)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
