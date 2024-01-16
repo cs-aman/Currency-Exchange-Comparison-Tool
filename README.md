@@ -40,7 +40,7 @@ Usage of GitHub for the whole project time.<br style="line-height:1.5;">
 UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the project with Edlich's Fund)<br style="line-height: 1.5;"> 
 →<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/uml-diagram'>UML PNG here</a>.
 
-# Requirement Engineering 
+# Requirements
 
 * The System Should provide an option to Input a Target Currency.<br>
 * It Should Retrive Currency Exchange Rates from Two Different Providers(Fixer and Beacon).<br>
