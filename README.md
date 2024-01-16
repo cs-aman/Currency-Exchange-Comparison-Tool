@@ -51,11 +51,12 @@ UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the
 
 # Requirement Management Tools
 <p><b>JIRA</b> <br></p>
-→<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/JIRA'>JIRA(Image Summary) </a> <br> 
+→<a href='https://csaman.atlassian.net/jira/software/projects/CECT/boards/3/timeline'> JIRA(Link) </a> <br>
+→<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/JIRA'>JIRA(Image Summary) </a> <br>
 <p><b>Notion</b> </p>
- <a href='https://www.notion.so/b801ec7887084df2bf0bd0e6f6e96643?v=3e68d9b0ed6042bfaefd661da920f6e8&pvs=4'>Notion(Link)</a>
- <a href='                   >Notion (Image Summary)</a>
- 
+→<a href='https://www.notion.so/b801ec7887084df2bf0bd0e6f6e96643?v=3e68d9b0ed6042bfaefd661da920f6e8&pvs=4'>Notion(Link)</a>
+→<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/Notion'>Notion (Image Summary)</a>
+
 # Metrices 
 [![SonarCloud Mentainability](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
 [![SonarCloud Bugs](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=bugs)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
