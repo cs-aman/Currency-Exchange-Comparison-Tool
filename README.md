@@ -1,6 +1,6 @@
 # Currency Exchange Comparison Tool
 <br>
-Currency Exchange Rate Comparison Tool Compares exchange rates between two currencies using different APIs like Fixer and Currency Beacon, helping users to find the best exchange rate along with rates they can get!"
+Currency Exchange Comparison Tool Compares exchange rates between two currencies using different APIs like Fixer and Currency Beacon, helping users to find the best exchange rate along with rates they can get!
  
 # Table Of Contents
 <br>
@@ -50,9 +50,11 @@ UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the
 * The User Interface Should be Clear and User-Friendly.<br>
 
 # Requirement Management Tools
-<p><b>JIRA</b> <br>
-→<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/JIRA'>JIRA Image Summary </a> <br> </p>
-
+<p><b>JIRA</b> <br></p>
+→<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/JIRA'>JIRA(Image Summary) </a> <br> 
+<p><b>Notion</b> </p>
+ <a href='https://www.notion.so/b801ec7887084df2bf0bd0e6f6e96643?v=3e68d9b0ed6042bfaefd661da920f6e8&pvs=4'>Notion(Link)</a>
+ <a href='                   >Notion (Image Summary)</a>
 # Metrices 
 [![SonarCloud Mentainability](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
 [![SonarCloud Bugs](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=bugs)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
