@@ -50,8 +50,8 @@ UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the
 * The User Interface Should be Clear and User-Friendly.<br>
 
 # Requirement Management Tools
-<p><b>JIRA</b> <br></p>
-→<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/JIRA'>JIRA Image Summary </a> <br>
+<p><b>JIRA</b> <br>
+→<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/JIRA'>JIRA Image Summary </a> <br> </p>
 
 # Metrices 
 [![SonarCloud Mentainability](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
