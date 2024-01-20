@@ -98,5 +98,5 @@ Run Test Manually <code>python -m unittest Tests/test_code_file.py</code>
 
 
 # DDD (Domain Driven Development)
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/DDD/DDD%20MIRO%20FRAMES.pdf'>DDD MIRO PDF </a> <br>
+<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/DDD/DDD%20MIRO%20FRAMES.pdf'>DDD Miro Pdf </a> <br>
 <a href='https://miro.com/app/board/uXjVN3F6BEs=/?share_link_id=373697073165'>DDD Miro Link</a> <br>
