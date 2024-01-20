@@ -95,3 +95,8 @@ Most of the time I used <b>VSC(Visual Studio Code)</b>.
 
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Tests/test_code_file.py'>Find Tests Here </a> <br><br>
 Run Test Manually <code>python -m unittest Tests/test_code_file.py</code>
+
+
+# DDD (Domain Driven Development)
+
+<a href='https://miro.com/app/board/uXjVN3F6BEs=/?share_link_id=373697073165'>DDD Miro Link</a> <br>
