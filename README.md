@@ -105,7 +105,7 @@ Run Test Manually <code>python -m unittest Tests/test_code_file.py</code>
 
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Python/functional-programming.py'> Functional Programming Code</a> <br>
 
-→<b> Functional Programming Example </b>
+→<b> Functional Programming Example </b> <br>
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L27'>Only Final Data Structure </a> <br>
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L5'>Mostly Side Effect Free Function</a> <br>
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L21'> Higher-Order Function </a> <br>
