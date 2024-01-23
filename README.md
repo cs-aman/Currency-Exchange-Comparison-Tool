@@ -9,7 +9,9 @@ Currency Exchange Comparison Tool Compares exchange rates between two currencies
 3.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#code-file">Code File</a><br>
 4.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#git">Git</a> <br>
 5.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#uml">UML</a> <br> 
-6.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#metrices">Metrices</a> <br> 
+6.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#requirements'>Requirements</a> <br>
+7.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#requirement-management-tools'>Requirement Management Tools </a> <br>
+8.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#metrices">Metrices</a> <br> 
 7.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#clean-code-development">Clean Code Development</a> <br> 
 
 # Features
@@ -56,6 +58,11 @@ UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the
 <p><b>Notion</b><br>
 →<a href='https://www.notion.so/b801ec7887084df2bf0bd0e6f6e96643?v=3e68d9b0ed6042bfaefd661da920f6e8&pvs=4'>Notion(Link)</a><br>
 →<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main/Notion'>Notion(Image Summary)</a></p>
+
+
+# Project Analysis
+<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Project%20Analysis/project-analysis.pdf'>Project Analysis</a> <br>
+<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Project%20Analysis/project-analysis_checklist.pdf'>Project Analysis Checklist</a> <br>
 
 # Metrices 
 [![SonarCloud Mentainability](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
@@ -110,7 +117,3 @@ Run Test Manually <code>python -m unittest Tests/test_code_file.py</code>
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L5'>Mostly Side Effect Free Function</a> <br>
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L21'> Higher-Order Function </a> <br>
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L30'>Function As Parameter and Return Value </a> <br>
-
-# Project Analysis
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Project%20Analysis/project-analysis.pdf'>Project Analysis</a> <br>
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Project%20Analysis/project-analysis_checklist.pdf'>Project Analysis Checklist</a> <br>
