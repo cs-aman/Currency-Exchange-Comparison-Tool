@@ -111,3 +111,6 @@ Run Test Manually <code>python -m unittest Tests/test_code_file.py</code>
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L21'> Higher-Order Function </a> <br>
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L30'>Function As Parameter and Return Value </a> <br>
 
+# Project Analysis
+<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Project%20Analysis/project-analysis.pdf'>Project Analysis</a> <br>
+<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Project%20Analysis/project-analysis_checklist.pdf'>Project Analysis Checklist</a> <br>
