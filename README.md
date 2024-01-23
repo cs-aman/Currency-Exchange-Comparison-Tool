@@ -64,6 +64,10 @@ UML Diagramm created with Planttext (Activity, Class, Component Diagrams for the
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Project%20Analysis/project-analysis.pdf'>Project Analysis</a> <br>
 <a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Project%20Analysis/project-analysis_checklist.pdf'>Project Analysis Checklist</a> <br>
 
+# DDD (Domain Driven Development)
+<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/DDD/DDD%20MIRO%20FRAMES.pdf'>DDD Miro Pdf </a> <br>
+<a href='https://miro.com/app/board/uXjVN3F6BEs=/?share_link_id=373697073165'>DDD Miro Link</a> <br>
+
 # Metrices 
 [![SonarCloud Mentainability](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
 [![SonarCloud Bugs](https://sonarcloud.io/api/project_badges/measure?project=cs-aman_Currency-Exchange-Comparison-Tool&metric=bugs)](https://sonarcloud.io/summary/new_code?id=cs-aman_Currency-Exchange-Comparison-Tool)
@@ -84,6 +88,12 @@ Adding clean code development for enhancing code usability, readability, and mai
 ♦ Cheat Sheet for Upcoming Projects:<br>
 →<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/ccd_cheat-sheet.md" target="_blank"> Cheat Sheet</a>
 
+
+# Unit Tests
+
+<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Tests/test_code_file.py'>Find Tests Here </a> <br><br>
+Run Test Manually <code>python -m unittest Tests/test_code_file.py</code>
+
 # IDE 
 Most of the time I used <b>VSC(Visual Studio Code)</b>.
 
@@ -96,17 +106,6 @@ Most of the time I used <b>VSC(Visual Studio Code)</b>.
 ♦ <b>CTRL + Alt + (up/down)</b>  To create Multiple Cursor <br>
 ♦ <b>CTRL + Shift + K </b>  To delete a line <br>
 ♦ <b>CTRL + '  </b>  To Start Terminal <br>
-
-
-# Unit Tests
-
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Tests/test_code_file.py'>Find Tests Here </a> <br><br>
-Run Test Manually <code>python -m unittest Tests/test_code_file.py</code>
-
-
-# DDD (Domain Driven Development)
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/DDD/DDD%20MIRO%20FRAMES.pdf'>DDD Miro Pdf </a> <br>
-<a href='https://miro.com/app/board/uXjVN3F6BEs=/?share_link_id=373697073165'>DDD Miro Link</a> <br>
 
 # Functional Programming 
 
