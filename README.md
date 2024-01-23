@@ -11,8 +11,13 @@ Currency Exchange Comparison Tool Compares exchange rates between two currencies
 5.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#uml">UML</a> <br> 
 6.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#requirements'>Requirements</a> <br>
 7.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#requirement-management-tools'>Requirement Management Tools </a> <br>
-8.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#metrices">Metrices</a> <br> 
-7.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#clean-code-development">Clean Code Development</a> <br> 
+8.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#project-analysis'>Project Analysis</a> <br>
+9.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#ddd-domain-driven-development'>DDD(Domain Driven Development)</a> <br>
+10.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#metrices">Metrices</a> <br> 
+11.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#clean-code-development">Clean Code Development</a> <br> 
+12.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#unit-tests'>Unit Tests</a> <br>
+13.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#ide'> IDE </a> <br>
+14.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#functional-programming'>Functional Programming </a> <br>
 
 # Features
 <br>
