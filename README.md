@@ -15,9 +15,8 @@ Currency Exchange Comparison Tool Compares exchange rates between two currencies
 9.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#ddd-domain-driven-development'>DDD(Domain Driven Development)</a> <br>
 10.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#metrices">Metrices</a> <br> 
 11.<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#clean-code-development">Clean Code Development</a> <br> 
-12.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#unit-tests'>Unit Tests</a> <br>
-13.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#ide'> IDE </a> <br>
-14.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#functional-programming'>Functional Programming </a> <br>
+12.<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/tree/main?tab=readme-ov-file#ide'> IDE </a> <br>
+
 
 # Features
 <br>
@@ -93,12 +92,6 @@ Adding clean code development for enhancing code usability, readability, and mai
 ♦ Cheat Sheet for Upcoming Projects:<br>
 →<a href="https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/ccd_cheat-sheet.md" target="_blank"> Cheat Sheet</a>
 
-
-# Unit Tests
-
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Tests/test_code_file.py'>Find Tests Here </a> <br><br>
-Run Test Manually <code>python -m unittest Tests/test_code_file.py</code>
-
 # IDE 
 Most of the time I used <b>VSC(Visual Studio Code)</b>.
 
@@ -112,12 +105,4 @@ Most of the time I used <b>VSC(Visual Studio Code)</b>.
 ♦ <b>CTRL + Shift + K </b>  To delete a line <br>
 ♦ <b>CTRL + '  </b>  To Start Terminal <br>
 
-# Functional Programming 
 
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/main/Python/functional-programming.py'> Functional Programming Code</a> <br>
-
-<b>Functional Programming Example </b> <br>
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L27'>Only Final Data Structure </a> <br>
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L5'>Mostly Side Effect Free Function</a> <br>
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L21'> Higher-Order Function </a> <br>
-<a href='https://github.com/cs-aman/Currency-Exchange-Comparison-Tool/blob/c35cddf274c505bc8073ca70e2c479cbd30f47db/Python/functional-programming.py#L30'>Function As Parameter and Return Value </a> <br>
